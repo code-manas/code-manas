@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
-<h3 align="center">CS Student,Explorer</h3>
+<h3 align="center">Computer Science Student, Learning👨‍🎓️to Build👷️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacks-manas&label=Profile%20views&color=0e75b6&style=flat" alt="hacks-manas" /> </p>
 
