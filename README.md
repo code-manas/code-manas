@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WeatherEye](https://github.com/hacks-manas/WeatherEye)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** **Computer-Networking** 
 
 - 👯 I’m looking to collaborate on [Responsive Design, UI/UX Design](https://github.com/hacks-manas/WeatherEye)
 
