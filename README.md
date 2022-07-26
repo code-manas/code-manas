@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas</h1>
-<h3 align="center">Computer Science Student, Learning👨‍🎓️to Build👷️</h3>
+<h3 align="center">Computer Science Undergrad, Learning👨‍🎓️to Build👷️</h3>
 
 - 🔭 I’m currently working on [WeatherEye](https://github.com/hacks-manas/WeatherEye)
 
